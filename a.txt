@@ -1,1 +1,2 @@
-line1 - remote commit
+line1 
+line2 - remote commit
